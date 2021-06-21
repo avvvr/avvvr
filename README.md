@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there :sparkles:
+I'm a junior frontend-developer.
+
+If you are here to see my work, check out the following repositories:
+
+* [JS2021Q1](https://github.com/avvvr/JS2021Q1)
+* [JS2020Q3](https://github.com/avvvr/JS2020Q3)
+* [rsschool-cv](https://github.com/avvvr/rsschool-cv)
+* [Interactive-map](https://github.com/avvvr/Interactive-map)
 
 <!--
 **avvvr/avvvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
